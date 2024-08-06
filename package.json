@@ -1,0 +1,29 @@
+{
+  "name": "bluloco-dark-muted-theme-w77",
+  "displayName": "Bluloco Dark Muted W77",
+  "description": "Bluloco dark muted theme for VS code.",
+  "publisher": "W77",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "repository": {
+    "url": "https://github.com/wojtek77/bluloco-dark-muted-theme-w77"
+  },
+  "bugs": {
+    "url": "https://github.com/wojtek77/bluloco-dark-muted-theme-w77/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "w77.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bluloco Dark Muted W77",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bluloco-dark-muted-theme-w77.json"
+      }
+    ]
+  }
+}
