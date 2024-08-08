@@ -15,3 +15,5 @@ Bluloco dark muted theme for VS code. Original Bluloco dark theme was made by [B
 | #3691ff | ![#3691ff](https://fakeimg.pl/35/3691ff/?text=+) | ![#3187f0](https://fakeimg.pl/35/3187f0/?text=+) | #3187f0 |
 | #ff936a | ![#ff936a](https://fakeimg.pl/35/ff936a/?text=+) | ![#e58965](https://fakeimg.pl/35/e58965/?text=+) | #e58965 |
 | #ff6480 | ![#ff6480](https://fakeimg.pl/35/ff6480/?text=+) | ![#e66e84](https://fakeimg.pl/35/e66e84/?text=+) | #e66e84 |
+
+![Git Blame screeshot 1](images/screenshot1.png)
