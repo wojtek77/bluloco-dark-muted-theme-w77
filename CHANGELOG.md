@@ -1,9 +1,6 @@
 # Change Log
 
-All notable changes to the "netbeans-flatlaf-dark-theme-w77" extension will be documented in this file.
+## 1.0.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+### Added
+- New `editorGutter.addedSecondaryBackground` color to visually distinguish staged added lines from unstaged ones in the editor gutter.

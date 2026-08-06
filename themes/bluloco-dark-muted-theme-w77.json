@@ -114,6 +114,7 @@
     "editorGroupHeader.noTabsBackground": "#22252a",
     "editorGroupHeader.tabsBackground": "#22252a",
     "editorGutter.addedBackground": "#237236",
+    "editorGutter.addedSecondaryBackground": "#2b72c9",
     "editorGutter.deletedBackground": "#745b53",
     "editorGutter.modifiedBackground": "#015f88",
     "editorHint.foreground": "#7a82da",
